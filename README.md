@@ -4,8 +4,9 @@ This Python script, [base64loopdecoenc.py](https://github.com/Acorzo1983/base64l
 
 ## Usage
 
-$python3 base64loopdecoenc.py -f <file name> -t <number of times up to 50> -E <For Encoding> |-D <For Decoding>
-
+```bash
+python3 base64loopdecoenc.py -f <file name> -t <number of times up to 50> -E <For Encoding> |-D <For Decoding>
+```
 
 ### Arguments
 
@@ -18,9 +19,9 @@ $python3 base64loopdecoenc.py -f <file name> -t <number of times up to 50> -E <F
 
 To encode a file named `input.txt` 20 times:
 
-bash
-$python3 base64loopdecoenc.py -f input.txt -t 20 -E
-
+```bash
+python3 base64loopdecoenc.py -f input.txt -t 20 -E
+```
 
 ## Requirements
 
