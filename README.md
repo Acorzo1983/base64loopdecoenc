@@ -32,6 +32,9 @@ python3 base64loopdecoenc.py -f input.txt -t 20 -E
 - The script limits the number of repetitions to 50.
 - For decoding, the script checks if the content is Base64 encoded before proceeding.
 
+## Video Demo
+https://youtu.be/ZddiiIjXn_4?si=tH4VXq06nMu5lIFq
+
 ## Author
 
 Albert Corzo
